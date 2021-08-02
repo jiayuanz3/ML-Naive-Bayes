@@ -2,7 +2,7 @@
 
 This is a piece work from COMP30027 Machine Learning Project 1(University of Melborune).
 
-We finished this work in 04/2020 with Python programming.
+I finished this work in 04/2020 with Python programming.
 
 In this Project, I implement a supervised Naive Bayes learner and evaluate it with respect to various supervised datasets. And then use the observations to respond to some conceptual questions about naive Bayes. 
 
